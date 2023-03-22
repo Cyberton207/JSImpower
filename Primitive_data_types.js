@@ -26,3 +26,9 @@ const person = {
 }
 console.log(person);
 console.log(typeof (person))
+
+
+// Chapter 1 Practice set
+const num = 55
+/*num= 6// const can't be updated*/
+console.log(num)
