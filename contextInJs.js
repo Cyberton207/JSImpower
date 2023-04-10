@@ -31,5 +31,8 @@ function bigTip(amt)
 
 // Variable declarations are scanned and made undefined
 console.log(my_name);
-let my_name = "Healy";  // It will give error because of the above statments
+ let my_name = "Healy";//   // It will give error because of the above statments
 // But it will perfectly works in case of function
+
+console.log(this)
+// It will give the empty brackets but in browser it gives all browser properties
