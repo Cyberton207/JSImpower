@@ -6,6 +6,8 @@ const arr = [1,2,3,4,5];
 for (let i = 0; i <arr.length ; i++) {
     console.log(arr[i]);
 }
+const new_arr = new Array("Monami","Dnyaneshwari","Ishwari","Sejal","Apporva");
+console.log(new_arr)
 const names = ["Shubham","Hrishi","Vaibhav","Ameya","Shreyash"];
 for (let i = 0; i < names.length; i++) {
     console.log(names[i]);
